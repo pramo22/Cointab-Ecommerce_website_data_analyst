@@ -52,4 +52,4 @@ Left Hand Side (LHS) Data (X’s internal data spread across three reports)
 
 ## Input-Data-files
 
-![Courier Company rates](Courier Company - Rates.xlsx)
+![Courier Company rates](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/f57716df95bc887b3d7e24d53a109638c5fc0278/Courier%20Company%20-%20Rates.xlsx)
