@@ -50,3 +50,6 @@ Left Hand Side (LHS) Data (X’s internal data spread across three reports)
   be “fixed” + “total additional” if any. For example: weight 2.2KG, Zone C. So for Zone C the slab length = 0.75KG. So the total applicable weight = 2.25KG. For the first 0.75 KG
   the charge is “fwd”, and for each 0.75 after the first, charges will be additional charges.
 
+## Input-Data-files
+
+![Courier Company rates](Courier Company - Rates.xlsx)
