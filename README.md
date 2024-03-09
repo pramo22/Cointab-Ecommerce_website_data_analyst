@@ -50,6 +50,22 @@ Left Hand Side (LHS) Data (X’s internal data spread across three reports)
   be “fixed” + “total additional” if any. For example: weight 2.2KG, Zone C. So for Zone C the slab length = 0.75KG. So the total applicable weight = 2.25KG. For the first 0.75 KG
   the charge is “fwd”, and for each 0.75 after the first, charges will be additional charges.
 
+## Scenario Explanation
+![Assignment_file](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Cointab%20Data%20Analyst%20-%20Assignment.pdf)
+
 ## Input-Data-files
 
 ![Courier Company rates](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/f57716df95bc887b3d7e24d53a109638c5fc0278/Courier%20Company%20-%20Rates.xlsx)
+<br>
+![Courier Company invoice](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Courier%20Company%20-%20Invoice.xlsx)
+<br>
+![Courier Company SKU Master](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Company%20X%20-%20SKU%20Master.xlsx)
+<br>
+![Courier Company Pincode](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Company%20X%20-%20Pincode%20Zones.xlsx)
+<br>
+![Courier Company Order-Report](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Company%20X%20-%20Order%20Report.xlsx)
+
+## Final Result
+![Final_result](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/Final_Result_Report.xlsx)
+<br>
+![Summary_result](https://github.com/pramo22/Cointab-Ecommerce_website_data_analyst/blob/64ff1067c9589ab280504c6224e214455ba64814/summary_table.xlsx)
